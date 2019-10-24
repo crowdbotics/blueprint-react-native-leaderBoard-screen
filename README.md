@@ -1,9 +1,9 @@
 # Blueprint Template
 
-This is a Contacts Blueprint.
+This is a Leader Board Blueprint.
 
 Screens:
-- Contacts
+- Leader Board
 - Navigation
 
 Screenshots is included for reference
